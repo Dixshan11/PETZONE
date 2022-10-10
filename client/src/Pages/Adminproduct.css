@@ -1,0 +1,9 @@
+.ta {
+    background: rgba(101, 55, 226, 0.08) !important;
+}
+.move {cursor: move;}
+
+#admin_shadow_show{
+    box-shadow: 45px 25px 15px 0px rgba(0,0,0,0.2);
+}
+

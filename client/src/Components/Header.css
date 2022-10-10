@@ -1,0 +1,25 @@
+.bi-heart-fill{
+    font-size: 1rem;
+}
+
+#navbar-grid{
+display: grid;
+grid-template-columns:auto auto;
+}
+
+
+
+.navbar-brand> span{
+font-size:3rem;
+}
+
+
+.navitem-size{
+    font-size:1.3rem;
+}
+
+.navitem-size:hover{
+    color:yellow !important;
+    /* font-size:1rem; */
+}
+
